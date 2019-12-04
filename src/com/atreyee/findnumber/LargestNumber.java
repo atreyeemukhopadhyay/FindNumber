@@ -1,4 +1,4 @@
-package com.atreyee.test;
+package com.atreyee.findnumber;
 
 import java.math.BigDecimal;
 import java.util.*;
